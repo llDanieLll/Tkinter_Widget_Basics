@@ -49,7 +49,7 @@ text.replace('1.0','1.0 lineend','This is the first line.')
 ###############################Text_Advaned_Basics##############################
 
 text.tag_add('my_tag','1.0','1.0 wordend')
-### add a tag dor the first woed ###
+### add a tag for the first word ###
 text.tag_config('my_tag', background = 'yellow')
 ### set the tag background color ###
 text.tag_remove('my_tag','1.1','1.3')
