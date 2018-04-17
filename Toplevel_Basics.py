@@ -47,7 +47,7 @@ window.geometry("640*480+50+100")
 
 
 window.maxsize(640,480)
-window.minisize(200,200)
+window.minsize(200,200)
 #window.resizable(True,True)
 ### to set the maximum size and minimum size of the window Toplevel widget ###
 
